@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="Carot.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="3"/>
+        <CursorPos X="32" Y="24"/>
+        <UsageCount Value="75"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="calc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmCalc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="276"/>
+        <CursorPos X="86" Y="298"/>
+        <UsageCount Value="75"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uSobre.lfm"/>
+        <IsPartOfProject Value="True"/>
+        <UsageCount Value="57"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uSobre.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmSobre"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="41" Y="56"/>
+        <UsageCount Value="57"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="Unit2.pas"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="5"/>
+        <CursorPos Y="27"/>
+        <UsageCount Value="16"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="Unit1.pas"/>
+        <TopLine Value="12"/>
+        <CursorPos Y="31"/>
+        <UsageCount Value="6"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\Downloads\kzdesktop_beta02\kzdesktop_beta02\kzlazdesktop.pas"/>
+        <ComponentName Value="KZLazDesktopInterface"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="KZLazDesktop"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1281"/>
+        <CursorPos X="34" Y="1294"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="calc.pas"/>
+        <Caret Line="246" Column="5" TopLine="237"/>
+      </Position1>
+      <Position2>
+        <Filename Value="calc.pas"/>
+        <Caret Line="282" Column="44" TopLine="266"/>
+      </Position2>
+      <Position3>
+        <Filename Value="calc.pas"/>
+        <Caret Line="319" Column="38" TopLine="290"/>
+      </Position3>
+      <Position4>
+        <Filename Value="calc.pas"/>
+        <Caret Line="349" TopLine="331"/>
+      </Position4>
+      <Position5>
+        <Filename Value="calc.pas"/>
+        <Caret Line="354" Column="38" TopLine="335"/>
+      </Position5>
+      <Position6>
+        <Filename Value="calc.pas"/>
+        <Caret Line="350" Column="23" TopLine="337"/>
+      </Position6>
+      <Position7>
+        <Filename Value="calc.pas"/>
+        <Caret Line="301" Column="34" TopLine="300"/>
+      </Position7>
+      <Position8>
+        <Filename Value="calc.pas"/>
+        <Caret Line="64" Column="19" TopLine="51"/>
+      </Position8>
+      <Position9>
+        <Filename Value="calc.pas"/>
+        <Caret Line="128" Column="21" TopLine="107"/>
+      </Position9>
+      <Position10>
+        <Filename Value="calc.pas"/>
+        <Caret Line="133" Column="20" TopLine="107"/>
+      </Position10>
+      <Position11>
+        <Filename Value="calc.pas"/>
+        <Caret Line="150" Column="21" TopLine="115"/>
+      </Position11>
+      <Position12>
+        <Filename Value="calc.pas"/>
+        <Caret Line="155" Column="20" TopLine="120"/>
+      </Position12>
+      <Position13>
+        <Filename Value="calc.pas"/>
+        <Caret Line="227" Column="78" TopLine="193"/>
+      </Position13>
+      <Position14>
+        <Filename Value="calc.pas"/>
+        <Caret Line="229" Column="34" TopLine="195"/>
+      </Position14>
+      <Position15>
+        <Filename Value="calc.pas"/>
+        <Caret Line="332" Column="26" TopLine="298"/>
+      </Position15>
+      <Position16>
+        <Filename Value="calc.pas"/>
+        <Caret Line="422" Column="45" TopLine="388"/>
+      </Position16>
+      <Position17>
+        <Filename Value="calc.pas"/>
+        <Caret Line="554" Column="42" TopLine="395"/>
+      </Position17>
+      <Position18>
+        <Filename Value="calc.pas"/>
+        <Caret Line="334" Column="22" TopLine="315"/>
+      </Position18>
+      <Position19>
+        <Filename Value="calc.pas"/>
+        <Caret Line="65" Column="79" TopLine="41"/>
+      </Position19>
+      <Position20>
+        <Filename Value="calc.pas"/>
+        <Caret Line="660" Column="31" TopLine="649"/>
+      </Position20>
+      <Position21>
+        <Filename Value="calc.pas"/>
+        <Caret Line="322" Column="7" TopLine="318"/>
+      </Position21>
+      <Position22>
+        <Filename Value="calc.pas"/>
+        <Caret Line="117" TopLine="103"/>
+      </Position22>
+      <Position23>
+        <Filename Value="calc.pas"/>
+        <Caret Line="232" Column="28" TopLine="207"/>
+      </Position23>
+      <Position24>
+        <Filename Value="calc.pas"/>
+        <Caret Line="275" Column="40" TopLine="260"/>
+      </Position24>
+      <Position25>
+        <Filename Value="calc.pas"/>
+        <Caret Line="59" Column="51" TopLine="34"/>
+      </Position25>
+      <Position26>
+        <Filename Value="calc.pas"/>
+        <Caret Line="191" Column="12" TopLine="174"/>
+      </Position26>
+      <Position27>
+        <Filename Value="calc.pas"/>
+        <Caret Line="208" Column="19" TopLine="177"/>
+      </Position27>
+      <Position28>
+        <Filename Value="calc.pas"/>
+        <Caret Line="391" TopLine="354"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Carot.lpr"/>
+        <Caret Line="27" Column="3" TopLine="16"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
