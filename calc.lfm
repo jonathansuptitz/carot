@@ -17,12 +17,12 @@ object frmCalc: TfrmCalc
   OnShow = FormShow
   ParentBiDiMode = False
   Position = poDesktopCenter
-  LCLVersion = '1.6.0.4'
+  LCLVersion = '1.6.4.0'
   object Label6: TLabel
     Left = 43
-    Height = 24
+    Height = 23
     Top = 163
-    Width = 61
+    Width = 65
     Caption = 'Tempo'
     Font.CharSet = ANSI_CHARSET
     Font.Color = clHotLight
@@ -46,9 +46,9 @@ object frmCalc: TfrmCalc
   end
   object Label8: TLabel
     Left = 234
-    Height = 18
+    Height = 17
     Top = 111
-    Width = 28
+    Width = 30
     Caption = 'Mhz'
     Font.CharSet = ANSI_CHARSET
     Font.Color = clWindowText
@@ -93,7 +93,7 @@ object frmCalc: TfrmCalc
     Top = 256
     Width = 145
     Caption = 'Gerar Código!'
-    Color = clBlack
+    Color = clSilver
     Font.CharSet = ANSI_CHARSET
     Font.Color = clBlack
     Font.Height = -19
@@ -104,7 +104,7 @@ object frmCalc: TfrmCalc
   end
   object Edit1: TEdit
     Left = 121
-    Height = 27
+    Height = 29
     Top = 160
     Width = 108
     Font.CharSet = ANSI_CHARSET
@@ -136,7 +136,7 @@ object frmCalc: TfrmCalc
   end
   object Edit2: TEdit
     Left = 172
-    Height = 27
+    Height = 29
     Top = 106
     Width = 57
     Font.CharSet = ANSI_CHARSET
@@ -162,10 +162,10 @@ object frmCalc: TfrmCalc
     object Label5: TLabel
       AnchorSideLeft.Control = Label3
       AnchorSideLeft.Side = asrCenter
-      Left = 327
-      Height = 18
+      Left = 329
+      Height = 17
       Top = 61
-      Width = 240
+      Width = 248
       Caption = '"Calculadora de Rotina de Tempo"'
       Font.CharSet = ANSI_CHARSET
       Font.Color = clWhite
@@ -177,10 +177,10 @@ object frmCalc: TfrmCalc
     object Label2: TLabel
       AnchorSideLeft.Control = Label3
       AnchorSideLeft.Side = asrCenter
-      Left = 413
-      Height = 22
+      Left = 419
+      Height = 21
       Top = 35
-      Width = 68
+      Width = 69
       BorderSpacing.Left = 30
       Caption = 'CAROT'
       Font.CharSet = ANSI_CHARSET
@@ -196,9 +196,9 @@ object frmCalc: TfrmCalc
       AnchorSideLeft.Side = asrBottom
       AnchorSideTop.Control = Panel1
       Left = 275
-      Height = 18
+      Height = 17
       Top = 11
-      Width = 344
+      Width = 356
       BorderSpacing.Left = 140
       BorderSpacing.Top = 10
       Caption = 'SISTEMA DE APOIO DIDÁTICO PROFISSIONAL'
@@ -968,9 +968,9 @@ object frmCalc: TfrmCalc
   end
   object RadioButton1: TRadioButton
     Left = 96
-    Height = 20
+    Height = 24
     Top = 201
-    Width = 35
+    Width = 42
     Caption = 'us'
     Checked = True
     OnChange = RadioButton1Change
@@ -979,18 +979,18 @@ object frmCalc: TfrmCalc
   end
   object RadioButton2: TRadioButton
     Left = 152
-    Height = 20
+    Height = 24
     Top = 201
-    Width = 38
+    Width = 46
     Caption = 'ms'
     OnChange = RadioButton2Change
     TabOrder = 7
   end
   object RadioButton3: TRadioButton
     Left = 212
-    Height = 20
+    Height = 24
     Top = 200
-    Width = 27
+    Width = 33
     Caption = 's'
     OnChange = RadioButton3Change
     TabOrder = 8

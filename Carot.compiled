@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.0.0\bin\x86_64-win64\fpc.exe" Date="1213098656"/>
-  <Params Value=" -MDelphi -Scghi -O1 -g -gl -WG -l -vewnhibq -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 -FuC:\Users\nomediferente\Downloads\carot_2.0\carot_2.0\ -dLCL -dLCLwin32 Carot.lpr"/>
+  <Compiler Value="/usr/bin/fpc" Date="1488055450"/>
+  <Params Value=" -MDelphi -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fl/opt/gnome/lib -Fu/usr/share/lazarus/1.6.4/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/1.6.4/lcl/units/x86_64-linux -Fu/usr/share/lazarus/1.6.4/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/1.6.4/packager/units/x86_64-linux -Fu/home/jonathan/workspace/carot/ -dLCL -dLCLgtk2 Carot.lpr"/>
 </CONFIG>
