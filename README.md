@@ -47,6 +47,8 @@ This software is part of the "Professional Didactic Support System" project, ini
 
 December 2013
 
+![main](https://github.com/RobertoDebarba/carot/blob/master/screenshot/main.png)
+
 
 Download available in "https://sourceforge.net/projects/arnu/"
 
